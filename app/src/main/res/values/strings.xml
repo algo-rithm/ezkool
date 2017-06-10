@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">EzKool</string>
+
+    <!-- Menu Strings -->
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search</string>
+
+    <!-- Menu-Item Strings -->
+    <string name="pref_key_slogan">Key</string>
+    <string name="pref_title_slogan">Title</string>
+    <string name="pref_summary_slogan">Summary</string>
+    <string name="pref_default_slogan">Default</string>
 </resources>
